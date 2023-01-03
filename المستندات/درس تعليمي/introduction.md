@@ -55,7 +55,7 @@ are the different categories and what you can expect on each one:
   We try to make it easier in this section.
 
 ## Getting help
-
+. 
 Are you getting stuck anywhere? Here are a few links to places to look:
 
 - If you need help with developing your app, our [community Discord server][discord]
